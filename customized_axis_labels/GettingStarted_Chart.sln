@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted_Chart", "GettingStarted_Chart\GettingStarted_Chart.csproj", "{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug-Xml|Any CPU = Debug-Xml|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-Xml|Any CPU = Release-Xml|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Debug-Xml|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Debug-Xml|Any CPU.Build.0 = Debug|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Release-Xml|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCF646-1E13-4BD1-9919-0BDA35A468CE}.Release-Xml|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FBDE750-8622-477B-AE16-7EA0B14CB742}
+	EndGlobalSection
+EndGlobal
